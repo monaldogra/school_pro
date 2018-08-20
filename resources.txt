@@ -1,0 +1,6 @@
+https://github.com/rgeo/rgeo
+http://daniel-azuma.com/articles/georails/part-2
+https://medium.com/@praagyajoshi/importing-combining-and-visualising-geospatial-data-in-a-rails-app-e63a01b5931b
+http://climber2002.github.io/blog/2014/05/18/postgis-and-google-maps-in-rails-part-1/
+https://www.bostongis.com/PrinterFriendly.aspx?content_name=postgis_tut01
+https://github.com/climber2002/schoolpro
